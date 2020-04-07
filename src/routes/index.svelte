@@ -5,63 +5,63 @@
 <div class="overflow-hidden shadow-lg border-t-4 bg-white mb-4 rounded-b-lg rounded-t border-red-light w-full">
     <div class="px-6 py-4 mb-2 mt-4 mb-8">
         <div class="uppercase tracking-wide text-c2 mb-4">Video dan Poster Kesihatan Mulut</div>
-        <a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest border-b-0 hover:bg-orange-200" href="001">
+        <a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest border-b-0 hover:bg-orange-200" href="penjagaan-optimum">
             
             <div class="pl-2">Penjagaan optimum untuk kesihatan mulut</div>
         </a>
-        <a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest border-b-0 hover:bg-orange-200" href="about">
+        <a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest border-b-0 hover:bg-orange-200" href="awas-gula">
             
             <div class="pl-2">Awas gula!</div>
         </a>
-        <a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="about">
+        <a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="diabetes-dan-gusi">
             
             <div class="pl-2">Diabetes dan gusi</div>
         </a>        
-       <a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="about">
+       <a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="langkah-penjagaan-gigi-palsu">
             
             <div class="pl-2">Penjagaan gigi palsu</div>
         </a>
-		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="about">
+		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="pemakanan-sihat">
             
             <div class="pl-2">Pemakanan sihat</div>
         </a>
-		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="about">
+		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="jom-bersenam">
             
             <div class="pl-2">Jom bersenam</div>
         </a>
-		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="about">
+		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="betul-ke">
             
             <div class="pl-2">Betul ke?</div>
         </a>
-		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="about">
+		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="mulut-sihat">
             
             <div class="pl-2">Mulut sihat meningkatkan kualiti hidup pesakit diabetes</div>
         </a>
-		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="about">
+		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="pemeriksaan-mulut-sendiri">
             
             <div class="pl-2">Pemeriksaan mulut sendiri </div>
         </a>
-		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="about">
+		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="pemilihan-berus-gigi">
             
             <div class="pl-2">Pemilihan berus gigi</div>
         </a>
-		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="about">
+		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="ubatgigi-berflorida">
             
             <div class="pl-2">Pilih ubat gigi berflorida</div>
         </a>
-		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="about">
+		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="pemilihan-interdental">
             
             <div class="pl-2">Pemilihan berus interdental</div>
         </a>
-		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="about">
+		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="cara-memberus-gigi">
             
             <div class="pl-2">Cara memberus gigi</div>
         </a>
-		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="about">
+		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="cara-menggunakan-flos">
             
             <div class="pl-2">Cara menggunakan floss</div>
         </a>
-		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="about">
+		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-orange-200" href="cara-menggunakan-berus-interdental">
             
             <div class="pl-2">Cara menggunakan berus gigi interdental</div>
         </a>    
