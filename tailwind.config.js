@@ -1,7 +1,11 @@
 module.exports = {
   theme: {
-    extend: {}
+    extend: {
+      screens: {
+        'hover-hover': {'raw': '(hover: hover)'}
+    }
   },
   variants: {},
   plugins: []
+}
 }

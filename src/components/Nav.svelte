@@ -63,7 +63,7 @@
 					<a class="inline-block text-xl py-2 px-4 {segment === undefined ? "text-yellow-300 border border-1 rounded border-yellow-300" : "text-white"} no-underline text-base sm:text-sm md:text-lg" href=".">Tip Penjagaan</a>
 				  </li>
 				  <li class="mr-3">
-					<a class="inline-block text-xl {segment === "about" ? "text-yellow-300 border border-1 rounded border-yellow-300" : "text-white"} no-underline hover:text-gray-200 hover:text-underline py-1 px-4 text-base sm:text-sm md:text-lg" href="about">Ujian Kesihatan</a>
+					<a class="inline-block text-xl {segment === "ujian" ? "text-yellow-300 border border-1 rounded border-yellow-300" : "text-white"} no-underline hover:text-gray-200 hover:text-underline py-1 px-4 text-base sm:text-sm md:text-lg" href="ujian">Ujian Kesihatan</a>
 				  </li>				  
 				</ul>
 			</div>
