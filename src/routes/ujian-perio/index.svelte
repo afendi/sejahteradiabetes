@@ -17,7 +17,10 @@
 <div
   class="overflow-hidden border-t-4 bg-white mb-4 rounded-b-lg rounded-t
   border-red-light w-full">
-  <div class="px-6 py-4 mb-2 mt-4 mb-8">    
+  <div class="px-6 py-4 mb-2 mt-4 mb-8">
+      <div class="w-full text-center text-lg font-bold">
+        Penilaian Kesihatan Gusi
+      </div>
     <div
       class="quiz-container"
       style="display: {active == myQuestions.length - 0 ? 'none' : 'inherit'}">

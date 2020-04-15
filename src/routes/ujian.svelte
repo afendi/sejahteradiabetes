@@ -32,7 +32,7 @@
       class="display:block flex cursor-pointer border px-4 py-2 text-lg
       hover:bg-blue-400 hover:text-white"
       href="ujian-lkd">
-      Ujian Literasi Kesihatan Dental
+      Ujian Literasi Kesihatan Mulut
     </a>
 
   </div>
