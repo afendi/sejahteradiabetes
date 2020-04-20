@@ -22,61 +22,73 @@
 
   <div class="md:flex shadow-lg border-solid border border-pink-300">
     <div class="md:flex-shrink-0">
-      <img class="md:w-56" src="p13/part1.png" alt="part1" />
+      <img class="md:w-56" src="p16/part1.png" alt="part1" />
     </div>
     <div class="mt-4 md:mt-0 md:ml-6">
       <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
         Langkah Pertama
       </div>      
-      <p class="mt-2 text-gray-600" />Letakkan berus gigi di permukaan luar gigi dan berus perlahan-lahan dari atas ke bawah atau dengan gerakan membulat.
+      <p class="mt-2 text-gray-600" />Jangan guna ubat gigi dengan kuantiti yang melampau. Cukup dengan meletak ubat dari sebelah kanan ke sebelah kiri berus.
     </div>
   </div>
 
   <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
     <div class="md:flex-shrink-0">
-      <img class="md:w-56" src="p13/part2.png" alt="part1" />
+      <img class="md:w-56" src="p16/part2.png" alt="part1" />
     </div>
     <div class="mt-4 md:mt-0 md:ml-6">
       <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
         Langkah Kedua
       </div>      
-      <p class="mt-2 text-gray-600" />Letakkan berus gigi pada sudut 45 darjah di bahagian permukaan luar gigi. Berus perlahan-lahan dari atas ke bawah.
+      <p class="mt-2 text-gray-600" />Condongkan berus gigi 45 darjah ke arah gusi.
     </div>
   </div>
 
   <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
     <div class="md:flex-shrink-0">
-      <img class="md:w-56" src="p13/part3.png" alt="part1" />
+      <img class="md:w-56" src="p16/part3.png" alt="part1" />
     </div>
     <div class="mt-4 md:mt-0 md:ml-6">
       <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
        Langkah Ketiga
       </div>      
-      <p class="mt-2 text-gray-600" />Letakkan berus gigi di permukaan mengunyah gigi, dan berus dari belakang ke depan.
+      <p class="mt-2 text-gray-600" />Bersihkan permukaan gigi dengan menggetarkan berus, dan gerakkan berus secara perlahanbeberapa kali diantara dua permukaan gigi atau secara membulat kecil. Pastikan leher gigi dan gusi juga diberus dengan baik. Beralih ke dua gigi seterusnya dan ulang sehingga semua permukaan luar dan dalam gigi dibersihkan. 
     </div>
   </div>
 
   <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
     <div class="md:flex-shrink-0">
-      <img class="md:w-56" src="p13/part4.png" alt="part1" />
+      <img class="md:w-56" src="p16/part4.png" alt="part1" />
     </div>
     <div class="mt-4 md:mt-0 md:ml-6">
       <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
         Langkah Keempat
       </div>      
-      <p class="mt-2 text-gray-600" />Letakkan berus gigi pada permukaan dalam gigi depan rahang bawah, dan berus dari depan ke belakang. Lakukan perkara yang sama bagi gigi depan rahang atas.
+      <p class="mt-2 text-gray-600" />Permukaan dalam gigi hadapan boleh diberus dengan mengubah posisi berus menjadimenegak dan berus perlahan-lahan ke atas dan ke bawah.
     </div>
   </div>
 
   <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
     <div class="md:flex-shrink-0">
-      <img class="md:w-56" src="p13/part5.png" alt="part1" />
+      <img class="md:w-56" src="p16/part5.png" alt="part1" />
     </div>
     <div class="mt-4 md:mt-0 md:ml-6">
       <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
         Langkah Kelima
       </div>      
-      <p class="mt-2 text-gray-600" />Jangan lupa untuk memberus lidah anda. Berus secara perlahan-lahan, dari belakang ke depan.
+      <p class="mt-2 text-gray-600" />Permukaan mengunyah juga penting. Pastikan semua permukaan mengunyah atas dan bawah diberus dengan sempurna dari hadapan ke belakang .
+    </div>
+  </div>
+
+  <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
+    <div class="md:flex-shrink-0">
+      <img class="md:w-56" src="p16/part6.png" alt="part1" />
+    </div>
+    <div class="mt-4 md:mt-0 md:ml-6">
+      <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
+        Langkah Keenam
+      </div>      
+      <p class="mt-2 text-gray-600" />Berus lidah sehala dari belakang ke hadapan untuk membersihkan selaput pada permukaan lidah yang boleh juga menjadi punca nafas berbau. Kumur hanya dengan iar yang sedikit untuk memastikan florida dalam ubat gigi kekal di permukaan gigi dengan lebih lama untuk kesan pencegahan gigi yang optima.
     </div>
   </div>
 

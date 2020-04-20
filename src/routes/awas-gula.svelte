@@ -85,11 +85,16 @@
         </div>
 
       </div>
-    </div>
+    </div>    
 
 
 
 
+  </div>
+
+  <div class="m-3 font-serif">
+  <p>Pengambilan gula yang berlebihan bukan hanya mempengaruhi diabetes, ia juga membawa kesan buruk kepada kesihatan mulut. Pesakit diabetes yang tidak mengawal pengambilan gula mempunyai kemungkinan untuk mendapat gigi berlubang serta penyakit gusi yang serius. </p>
+  <p>Selain itu, pesakit diabetes mudah untuk mengalami perubahan deria rasa, mempunyai masalah nafas berbau dan juga mudah merasa dahaga kerana mulut sentiasa kering. Hindari gula berlebihan bukan hanya untuk mengelak diabetes, ia juga dapat mengelakkan dari pelbagai masalah berkait dengan kesihatan mulut.</p>
   </div>
 
 

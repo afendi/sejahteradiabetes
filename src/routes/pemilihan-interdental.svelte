@@ -63,10 +63,28 @@
       </div>
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
-        Bentuk <italics>L</italics> untuk celahan gigi belakang
+        Bentuk
+        <italics>L</italics>
+        untuk celahan gigi belakang
       </div>
       <p class="mt-2 text-gray-600" />
     </div>
+  </div>
+
+  <div class="p-2 mt-3">
+    <p class="p-3">
+      Berus interdental merupakan berus kecil yang digunakan untuk membersihkan
+      ruang-ruang di antara gigi yang tidak boleh dicapai berus gigi biasa.
+      Berus ini terdapat dalam pelbagai saiz dan bentuk untuk kemudahan para
+      pengguna.
+    </p>
+    <p class="p-3">
+      Antara mereka yang perlu menggunakan berus interdental ialah pemakai
+      pendakap gigi dan mereka yang mempunyai banyak ruang di antara gigi.
+      Gunakan saiz berus yang bersesuaian dengan ruang antara gigi. Gunakan
+      berus yang berbentuk lurus bagi gigi bahagian hadapan dan berus
+      berbentuk-L bagi gigi bahagian belakang.
+    </p>
   </div>
 
 </div>

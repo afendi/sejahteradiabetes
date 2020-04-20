@@ -56,5 +56,33 @@
       </div>
     </div>
   </div>
+  <div class="p-3 mt-2">
+    <p class="p-3">
+      Pilihlah ubat gigi yang mengandungi florida untuk membersihkan gigi anda.
+      Ubat gigi berflorida dapat mencegah kerosakan gigi dengan menghalang asid
+      yang dirembes oleh bakteria dalam plak. Ada pihak yang mengatakan florida
+      adalah racun dan tidak boleh digunakan dalam ubat gigi. Mengikut kajian
+      saintifik, florida terbukti dapat membantu mengurangkan kerosakan gigi.
+    </p>
+    <p class="p-3">
+      Tiada bukti saintifik yang kukuh untuk membuktikan Florida dalam ubat gigi
+      membahayakan kesihatan. Sepertimana bahan-bahan ubatan yang lain, florida
+      atau ubat gigi yang mengandungi florida, dapat memberikan manfaat kepada
+      kesihatan gigi sekiranya digunakan dalam dos yang bersesuaian. Tetapi akan
+      menjadi racun hanya sekiranya diambil secara melampau seperti di telan
+      dalam kuantiti yang amat banyak. Gunakan kebijaksanaan anda dalam membuat
+      keputusan.
+    </p>
+    <p class="p-3">
+      Terdapat banyak bahan lain selain dari florida yang ditambah ke dalam ubat
+      gigi. Ada ubat gigi untuk mereka yang mempunyai masalah gigi sensitif dan
+      ada juga ubat gigi yang diiklankan sebagai ubat gigi pemutih. Sekiranya
+      anda menggunakan ubat gigi pemutih, sila gunakan dengan berhati-hati
+      kerana ubat gigi ini kebanyakan mempunyai bahan lelas (abrasives) yang
+      tinggi dan boleh menyebabkan lapisan enamel gigi terhakis dan mendatangkan
+      masalah gigi sensitif. Dapatkan nasihat doktor gigi bertauliah untuk
+      maklumat lanjut mengenai ubat gigi berflorida yang anda gunakan.
+    </p>
+  </div>
 
 </div>

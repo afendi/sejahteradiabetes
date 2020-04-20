@@ -20,13 +20,29 @@
     </ul>
   </div>
 
-  <div class="grid grid-cols-1"> 
-<img src="p8/part1.png" class="w-auto object-center" alt="part1" />
-
-
+  <div class="grid grid-cols-1 mx-auto">
+    <img src="p8/part1.png" class="w-auto mx-auto" alt="part1" />
+    <p class="p-3">
+      Diabetes merupakan penyakit kronik dan melibatkan pelbagai sistem didalam
+      badan. Ini termasuk penyakit gusi yang menjadi lebih teruk apabila keadaan
+      diabetes pesakit semakin tidak terkawal. Secara amnya, mulut yang sihat
+      penting untuk makan, berkomunikasi dan bergaul dengan orang lain. Secara
+      khasnya, kajian telah menunjukkan kesihatan mulut terutamanya kesihatan
+      gusi yang baik dapat membantu mengawal gula dalam darah bagi pesakit yang
+      diabetes.
+    </p>
+    <p class="p-3">
+      Oleh itu, penjagaan mulut yang baik seperti teknik pemberusan gigi yang
+      betul, penggunaan flos yang betul, penjagaan makanan yang baik, dan
+      sebagainya membawa kepada kesihatan mulut yang lebih baik seterusnya
+      berupaya meningkatkan kualiti hidup pesakit diabetes. Kunjungi lah doktor
+      gigi sekurang-kurangnya dua kali setahun untuk pemeriksaan mulut.
+      Maklumkan kepada doktor gigi anda sekiranya anda mengidap penyakit
+      diabetes. Sekiranya anda menyimpan rekod bacaan gula dalam darah anda,
+      sila bawa buku tersebut bersama setiap kali anda ke klinik gigi. Ini akan
+      membantu doktor gigi dalam membuat pelan rawatan khas untuk anda.
+    </p>
 
   </div>
-
-
 
 </div>

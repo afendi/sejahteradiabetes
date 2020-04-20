@@ -28,7 +28,7 @@
   </div>
   <div class="mt-4 md:mt-0 md:ml-6">
     <div class="uppercase text-sm text-indigo-600 font-bold">Berus Gigi 2 kali sehari</div>    
-    <p class="mt-2">Berikut merupakan langkah penjagaan yang optimum untuk kesihatan mulut yang menyeluruh. Berus gigi sekurang-kurangnya dua kali sehari dengan menggunakan ubat gigi berflorida. Ubat gigi berflorida dapat menguatkan gigi serta mencegah kerosakan gigi.</p>
+    <p class="mt-2 font-serif">Berikut merupakan langkah penjagaan yang optimum untuk kesihatan mulut yang menyeluruh. Berus gigi sekurang-kurangnya dua kali sehari dengan menggunakan ubat gigi berflorida. Ubat gigi berflorida dapat menguatkan gigi serta mencegah kerosakan gigi.</p>
   </div>
 </div>
 
@@ -38,7 +38,7 @@
   </div>
   <div class="mt-4 md:mt-0 md:ml-6">
     <div class="uppercase text-sm text-indigo-600 font-bold">Flos Gigi sekali sehari</div>    
-    <p class="mt-2">Untuk membersihkan permukaan antara gigi pula, gunakan flos sekurang-kurangnya sehari sekali. Berus gigi sahaja tidak dapat membersihkan permukaan ini.</p>
+    <p class="mt-2 font-serif">Untuk membersihkan permukaan antara gigi pula, gunakan flos sekurang-kurangnya sehari sekali. Berus gigi sahaja tidak dapat membersihkan permukaan ini.</p>
   </div>
 </div>
 
@@ -48,7 +48,7 @@
   </div>
   <div class="mt-4 md:mt-0 md:ml-6">
     <div class="uppercase text-sm text-indigo-600 font-bold">Periksa gigi 2 kali setahun</div>    
-    <p class="mt-2">
+    <p class="mt-2 font-serif">
     Pastikan anda mengunjungi doktor gigi untuk mendapatkan pemeriksaan berkala. Tidak perlu tunggu sehingga anda mengalami masalah untuk ke klinik gigi. 
     Dalam banyak kes, bagi pesakit yang mengunjungi klinik gigi apabila mengalami kesakitan, masalah yang dihadapi sudah berada di tahap yang agak serius. 
     Pemeriksaan berkala setiap enam bulan penting untuk pengesanan awal penyakit mulut seperti kerosakan gigi dan gusi
@@ -62,7 +62,7 @@
   </div>
   <div class="mt-4 md:mt-0 md:ml-6">
     <div class="uppercase text-sm text-indigo-600 font-bold">Pemakanan Sihat</div>    
-    <p class="mt-2">
+    <p class="mt-2 font-serif">
     Amalkan gaya hidup sihat dengan menjaga pengambilan makanan agar seimbang. Pengambilan makanan bergula dan kekerapan makan kudap-kudapan antara waktu makan utama perlu dikurangkan.
     </p>
   </div>
@@ -74,7 +74,7 @@
   </div>
   <div class="mt-4 md:mt-0 md:ml-6">
     <div class="uppercase text-sm text-indigo-600 font-bold">Berhenti Merokok</div>    
-    <p class="mt-2 mb-4">
+    <p class="mt-2 mb-4 font-serif">
     Berhenti merokok pula dapat mengurangkan risiko mendapat penyakit  seperti kanser mulut dan penyakit gusi.
     </p>
   </div>
