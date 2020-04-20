@@ -13,7 +13,7 @@
     <a
       class="display:block flex cursor-pointer border px-4 py-2 text-lg
       border-b-0 hover:bg-blue-400 hover:text-white"
-      href="ujian-lkd">
+      href="ujian-risiko-diabetes">
       Ujian Risiko Diabetes
     </a>
     <a
