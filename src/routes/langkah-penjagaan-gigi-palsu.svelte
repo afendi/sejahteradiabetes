@@ -58,7 +58,9 @@
 
   </div>
 
-  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3" style="background-color:#074f8f">
+  <div
+    class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3"
+    style="background-color:#074f8f">
 
     <div class="max-w-sm overflow-hidden m-0">
       <div class="flex flex-col min-h-full">
@@ -90,7 +92,7 @@
       </div>
     </div>
 
-    <div class="max-w-sm  overflow-hidden m-0">
+    <div class="max-w-sm overflow-hidden m-0">
       <div class="flex flex-col min-h-full">
         <div class="flex justify-center">
 
@@ -98,15 +100,44 @@
         </div>
 
       </div>
-    </div>    
+    </div>
 
   </div>
 
   <div class="text-base p-3 mt-3 mb-3">
-    <p>Sekiranya anda menggunakan gigi palsu, ia  perlu dijaga dengan baik untuk memastikan jangka hayat gigi palsu anda lebih panjang dan  nafas sentiasa segar.  Gigi palsu perlu dibersihkan selepas bangun tidur, selepas makan dan sebelum tidur. Gunakan berus gigi yang sesuai dan pencuci khas untuk gigi palsu. Elakkan dari menggunakan ubat gigi kerana kebanyakan ubat gigi tidak sesuai digunakan untuk mencuci gigi palsu. Sebelum anda tidur, gigi palsu yang telah dibersihkan perlu disimpan dalam bekas berisi air yang bersuhu bilik.</p>
-    <p>Gigi palsu TIDAK BOLEH dipakai semasa anda tidur. Sekiranya anda memakai gigi palsu semasa tidur, ia boleh menyebabkan gigi palsu menjadi mudah kotor dan berbau. Bakteria  menjadi mudah membiak di permukaan gigi palsu dan ini boleh mengakibatkan gusi mengalami keradangan. Pesakit yang memakai gigi palsu separuh pula mempunyai risiko kerosakan kepada gigi  yang masih ada sekiranya gigi palsu tidak dijaga kebersihannya. </p>
-    <p>Jangan cuci atau rendam gigi palsu dengan air panas kerana ia boleh merosakkan gigi palsu . Semasa mencuci gigi palsu, sebaiknya, alas kain di atas sinki untuk memastikan gigi palsu yang dicuci tidak  patah sekiranya terjatuh. dari makan makanan yang keras seperti kekacang kerana ia boleh merosakkan bukan sahaja gigi palsu malah gusi anda. Pastikan anda tidak memakai gigi palsu yang tidak padan dengan gusi samada terlalu longgar atau ketat.</p>
-    <p>Jumpa doktor gigi untuk pemeriksaan berkala sekurang-kurangnya dua kali setahun bagi memastikan keadaan mulut dan gigi palsu anda dalam keadaan baik. Jangan sekali-kali cuba untuk membaiki gigi palsu anda sendiri kerana ia boleh menyebabkan gigi tersebut menjadi lebih teruk.</p>
-    </div>
+    <p class="p-2">
+      Sekiranya anda menggunakan gigi palsu, ia perlu dijaga dengan baik untuk
+      memastikan jangka hayat gigi palsu anda lebih panjang dan nafas sentiasa
+      segar. Gigi palsu perlu dibersihkan selepas bangun tidur, selepas makan
+      dan sebelum tidur. Gunakan berus gigi yang sesuai dan pencuci khas untuk
+      gigi palsu. Elakkan dari menggunakan ubat gigi kerana kebanyakan ubat gigi
+      tidak sesuai digunakan untuk mencuci gigi palsu. Sebelum anda tidur, gigi
+      palsu yang telah dibersihkan perlu disimpan dalam bekas berisi air yang
+      bersuhu bilik.
+    </p>
+    <p class="p-2">
+      Gigi palsu TIDAK BOLEH dipakai semasa anda tidur. Sekiranya anda memakai
+      gigi palsu semasa tidur, ia boleh menyebabkan gigi palsu menjadi mudah
+      kotor dan berbau. Bakteria menjadi mudah membiak di permukaan gigi palsu
+      dan ini boleh mengakibatkan gusi mengalami keradangan. Pesakit yang
+      memakai gigi palsu separuh pula mempunyai risiko kerosakan kepada gigi
+      yang masih ada sekiranya gigi palsu tidak dijaga kebersihannya.
+    </p>
+    <p class="p-2">
+      Jangan cuci atau rendam gigi palsu dengan air panas kerana ia boleh
+      merosakkan gigi palsu . Semasa mencuci gigi palsu, sebaiknya, alas kain di
+      atas sinki untuk memastikan gigi palsu yang dicuci tidak patah sekiranya
+      terjatuh. dari makan makanan yang keras seperti kekacang kerana ia boleh
+      merosakkan bukan sahaja gigi palsu malah gusi anda. Pastikan anda tidak
+      memakai gigi palsu yang tidak padan dengan gusi samada terlalu longgar
+      atau ketat.
+    </p>
+    <p class="p-2">
+      Jumpa doktor gigi untuk pemeriksaan berkala sekurang-kurangnya dua kali
+      setahun bagi memastikan keadaan mulut dan gigi palsu anda dalam keadaan
+      baik. Jangan sekali-kali cuba untuk membaiki gigi palsu anda sendiri
+      kerana ia boleh menyebabkan gigi tersebut menjadi lebih teruk.
+    </p>
+  </div>
 
 </div>

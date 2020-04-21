@@ -22,7 +22,7 @@
 
   <div class="md:flex shadow-lg border-solid border border-pink-300">
     <div class="md:flex-shrink-0">
-      <img class="md:w-56" src="p16/part1.png" alt="part1" />
+      <img class="md:w-56" src="p16/p1.png" alt="part1" />
     </div>
     <div class="mt-4 md:mt-0 md:ml-6">
       <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
@@ -34,7 +34,7 @@
 
   <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
     <div class="md:flex-shrink-0">
-      <img class="md:w-56" src="p16/part2.png" alt="part1" />
+      <img class="md:w-56" src="p16/p2.png" alt="part1" />
     </div>
     <div class="mt-4 md:mt-0 md:ml-6">
       <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
@@ -46,7 +46,7 @@
 
   <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
     <div class="md:flex-shrink-0">
-      <img class="md:w-56" src="p16/part3.png" alt="part1" />
+      <img class="md:w-56" src="p16/p3.png" alt="part1" />
     </div>
     <div class="mt-4 md:mt-0 md:ml-6">
       <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
@@ -58,7 +58,7 @@
 
   <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
     <div class="md:flex-shrink-0">
-      <img class="md:w-56" src="p16/part4.png" alt="part1" />
+      <img class="md:w-56" src="p16/p4.png" alt="part1" />
     </div>
     <div class="mt-4 md:mt-0 md:ml-6">
       <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
@@ -70,7 +70,7 @@
 
   <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
     <div class="md:flex-shrink-0">
-      <img class="md:w-56" src="p16/part5.png" alt="part1" />
+      <img class="md:w-56" src="p16/p5.png" alt="part1" />
     </div>
     <div class="mt-4 md:mt-0 md:ml-6">
       <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
@@ -82,7 +82,7 @@
 
   <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
     <div class="md:flex-shrink-0">
-      <img class="md:w-56" src="p16/part6.png" alt="part1" />
+      <img class="md:w-56" src="p16/p6.png" alt="part1" />
     </div>
     <div class="mt-4 md:mt-0 md:ml-6">
       <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">

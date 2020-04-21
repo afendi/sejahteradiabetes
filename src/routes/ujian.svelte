@@ -11,25 +11,25 @@
     </div>
 
     <a
-      class="display:block flex cursor-pointer border px-4 py-2 text-lg
+      class="block flex cursor-pointer border px-4 py-2 text-lg
       border-b-0 hover:bg-blue-400 hover:text-white"
       href="ujian-risiko-diabetes">
       Ujian Risiko Diabetes
     </a>
     <a
-      class="display:block flex cursor-pointer border px-4 py-2 text-lg
-      border-b-0 hover:bg-blue-400 hover:text-white"
+      class="block flex cursor-pointer border px-4 py-2 text-lg
+      hover:bg-blue-400 hover:text-white"
       href="ujian-perio">
       Ujian Kesihatan Gusi
     </a>
     <a
-      class="display:block flex cursor-pointer border px-4 py-2 text-lg
+      class="hidden flex cursor-pointer border px-4 py-2 text-lg
       border-b-0 hover:bg-blue-400 hover:text-white"
       href="ujian-literasi-kesihatan">
       Ujian Literasi Kesihatan
     </a>
     <a
-      class="display:block flex cursor-pointer border px-4 py-2 text-lg
+      class="hidden flex cursor-pointer border px-4 py-2 text-lg
       hover:bg-blue-400 hover:text-white"
       href="ujian-lkd">
       Ujian Literasi Kesihatan Mulut

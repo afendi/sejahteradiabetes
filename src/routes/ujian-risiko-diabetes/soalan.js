@@ -12,7 +12,7 @@ export const myQuestions = [
         question: "Ukur lilit pinggang – diukur di bawah tulang rusuk (biasanya pada bahagian pusat)",
         answers: {
             "Lelaki - Kurang dari 90cm (35.4 inci) / Wanita - Kurang dari 80cm (31.4 inci)":0,
-            "Lelaki - Lebih dari 90cm (35.4 inci) / Wanita - Lebbih dari 80cm (31.4 inci)":4            
+            "Lelaki - Lebih dari 90cm (35.4 inci) / Wanita - Lebih dari 80cm (31.4 inci)":4            
         }
     },
     {

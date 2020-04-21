@@ -25,9 +25,17 @@
             
             <div class="pl-2">Pemakanan sihat</div>
         </a>
+        <a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-blue-400 hover:text-white" href="komplikasi-diabetes">
+            
+            <div class="pl-2">Komplikasi Diabetes</div>
+        </a>
 		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-blue-400 hover:text-white" href="jom-bersenam">
             
             <div class="pl-2">Jom bersenam</div>
+        </a>
+        <a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-blue-400 hover:text-white" href="mulut-kering">
+            
+            <div class="pl-2">Penjagaan Mulut Kering</div>
         </a>
 		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-blue-400 hover:text-white" href="betul-ke">
             

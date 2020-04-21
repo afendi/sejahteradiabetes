@@ -2,12 +2,14 @@
   let berat = null;
   let tinggi = null;
   let bmi = null;
+  let height = null;
 
   $: isEmptyTinggi = !tinggi;
   $: isEmptyBerat = !berat;
   function handleBMI(e){
       e.preventDefault();
-      bmi = berat/(tinggi*tinggi);
+      height = tinggi/10;
+      bmi = berat/(height*height);
       bmi = parseFloat((bmi.toFixed(2)));
       sessionStorage.setItem("bmi", bmi);
       location.href="ujian-risiko-diabetes/assess";
@@ -54,7 +56,7 @@
             class="block uppercase tracking-wide text-gray-700 text-xs font-bold
             mb-2"
             for="tinggi">
-            Tinggi (meter)
+            Tinggi (sentimeter)
           </label>
           <input
             class="appearance-none block w-full bg-gray-200 text-gray-700 border
@@ -63,14 +65,13 @@
             id="tinggi"
             name="tinggi"
             type="number"
-            min="0.5"
-            max="3.0"
-            step="0.01"
-            placeholder="0.00m"
+            min="50"
+            max="300"            
+            placeholder="000cm"
             bind:value={tinggi} />
           {#if isEmptyTinggi}
             <p class="text-red-500 text-xs italic">
-              Sila isikan tinggi anda dalam meter.
+              Sila isikan tinggi anda dalam sentimeter.
             </p>
           {/if}
         </div>
