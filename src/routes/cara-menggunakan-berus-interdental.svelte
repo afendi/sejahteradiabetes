@@ -20,20 +20,56 @@
     </ul>
   </div>
 
-  <div class="flex flex-wrap justify-center" style="background-color:#f6f4e9">
-  <div class="flex w-full md:w-1/2 mb-4 mt-2 justify-center">
-  <img src="p15/part1.png" class="w-auto" alt="part1" />
+   <div class="md:flex shadow-lg border-solid border border-pink-300">
+    <div class="md:flex-shrink-0">
+      <img class="md:w-56" src="p15/part1.png" alt="part1" />
+    </div>
+    <div class="mt-4 md:mt-0 md:ml-6">
+      <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">        
+      </div>
+      <div
+        class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
+        Pertama, letakkan berus di ruang celah-celah gigi dengan memastikan berus menyentuh permukaan gigi.
+      </div>      
+    </div>
   </div>
-  <div class="flex w-full md:w-1/2 mb-4 mt-2 justify-center">
-  <img src="p15/part2.png" class="w-auto object-center" alt="part1" />
+
+  <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
+    <div class="md:flex-shrink-0">
+      <img class="md:w-56" src="p15/part2.png" alt="part1" />
+    </div>
+    <div class="mt-4 md:mt-0 md:ml-6">      
+      <div
+        class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
+        Seterusnya, dengan perlahan-lahan, gerakkan berus tersebut dengan gerakan depan ke belakang. Sekiranya saiz berus terlalu besar, jangan paksa berus masuk di antara celah gigi kerana ini boleh menyebabkan kecederaan pada gusi. Sebaliknya, tukarlah berus kepada saiz berus yang lebih kecil. 
+      </div>      
+    </div>
   </div>
-  <div class="flex w-full md:w-1/2 mb-4 justify-center">
-  <img src="p15/part3.png" class="w-auto object-center" alt="part1" />
+
+  <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
+    <div class="md:flex-shrink-0">
+      <img class="md:w-56" src="p15/part3.png" alt="part1" />
+    </div>
+    <div class="mt-4 md:mt-0 md:ml-6">      
+      <div
+        class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
+        Bagi pemakai pendakap gigi, masukkan berus interdental di celah-celah braket dan lalukan berus di sekeliling braket tersebut. 
+      </div>
+      
+    </div>
   </div>
-  <div class="flex w-full md:w-1/2 mb-4 justify-center">
-  <img src="p15/part4.png" class="w-auto object-center" alt="part1" />
-  </div>
-  </div>
+
+  <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
+    <div class="md:flex-shrink-0">
+      <img class="md:w-56" src="p15/part4.png" alt="part1" />
+    </div>
+    <div class="mt-4 md:mt-0 md:ml-6">      
+      <div
+        class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
+         Berus interdental berbentuk L (angled brushes) lebih sesuai digunakan untuk membersihkan ruangan di celah gigi belakang kerana lebih mudah untuk dimasukkan. 
+      </div>      
+    </div>
+  </div> 
 
 
 

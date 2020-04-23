@@ -29,7 +29,7 @@
       </div>
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
-        Potongkan flos kira-kira 1 sehasta (30-50cm).
+        Pertama, ambil dalam 30-50 cm panjang flos (atau sehasta)  dan lilitkan pada jari tengah di kedua-dua belah tangan.
       </div>
       <p class="mt-2 text-gray-600" />
     </div>
@@ -42,7 +42,7 @@
     <div class="mt-4 md:mt-0 md:ml-6">      
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
-        Lilitkan flos sekitar jari tengah kedua-dua tangan.
+        Pegang flos antara ibu jari dan jari telunjuk,  tinggalkan dalam 3-6cm di antaranya. 
       </div>
       <p class="mt-2 text-gray-600" />
     </div>
@@ -55,7 +55,7 @@
     <div class="mt-4 md:mt-0 md:ml-6">      
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
-        Pegang flos antara ibu jari & jari telunjuk. Tinggalkan 3-6cm flos antaranya.
+        Dengan menggunakan jari telunjuk dan ibu jari, masukkan flos ke celah-celah gigi dengan berhati-hati dengan pergerakan zig-zag. Elakkan dari menekan flos pada gusi kerana boleh mengakibatkan luka pada gusi.
       </div>
       <p class="mt-2 text-gray-600" />
     </div>
@@ -68,7 +68,7 @@
     <div class="mt-4 md:mt-0 md:ml-6">      
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
-        Masukkan flos antara gigi dengan pergerakan 'zig-zag'.
+        Kemudian, geserkan flos pada permukaan gigi dan secara perlahan-lahan, gerakkan flos sehingga ke bawah garis gusi membentuk huruf ‘C’, dan gerakkan semula flos ke atas perlahana-lahan. 
       </div>
       <p class="mt-2 text-gray-600" />
     </div>
@@ -81,7 +81,7 @@
     <div class="mt-4 md:mt-0 md:ml-6">      
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
-        Gerakkan flos sekeliling gigi dengan membentuk 5 huruf 'C' & floskan dibawah garisan gusi.
+        Alihkan flos ke permukaan gigi yang bersebelahan dan ulang langkah 4.
       </div>
       <p class="mt-2 text-gray-600" />
     </div>
@@ -94,7 +94,7 @@
     <div class="mt-4 md:mt-0 md:ml-6">      
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
-        Gunakan bahagian flos baharu dan beralih ke gigi lain.
+        Gunakan bahagian flos yang baru apabila beralih ke gigi lain  dan ulang semula dari langkah kedua.
       </div>
       <p class="mt-2 text-gray-600" />
     </div>

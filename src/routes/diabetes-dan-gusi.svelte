@@ -97,14 +97,14 @@
 
   </div>
  <div class="m-3 text-base w-full">
-  <p class="p-3">Plak adalah kotoran yang mengandungi koloni bakteria. Plak sekiranya tidak dibersihkan dengan betul boleh 
+  <p class="p-2">Plak adalah kotoran yang mengandungi koloni bakteria. Plak sekiranya tidak dibersihkan dengan betul boleh 
   menyebabkan keradangan gusi atau gingivitis di mana gusi menjadi kemerahan atau mudah berdarah apabila digosok. 
   Sekiranya plak dibersihkan dengan betul iaitu melalui cara memberus gigi yang berkesan, gusi boleh kembali sihat tanpa sebarang rawatan doktor.  </p>
-  <p class="p-3">Tetapi, sekiranya plak pada gigi tidak dibersihkan, gingivitis atau radang gusi itu boleh bertukar menjadi periodontitis awal 
+  <p class="p-2">Tetapi, sekiranya plak pada gigi tidak dibersihkan, gingivitis atau radang gusi itu boleh bertukar menjadi periodontitis awal 
   dimana poket gusi mula terbentuk di sekeliling gigi. Ini menyebabkan plak lebih senang terkumpul. 
   Lama kelamaan,  tulang alveolar iaitu tulang yang menyokong akar gigi menjadi semakin susut. 
   Gigi akan kelihatan panjang kerana akar gigi sudah terdedah. Gigi juga akan menjadi semakin goyang dan akhirnya perlu dicabut. </p>
-  <p class="p-3">Pastikan anda menjaga kebersihan gigi dengan betul dan jangan lupa untuk mengunjungi doktor gigi sekurang-kurangnya dua kali setahun 
+  <p class="p-2">Pastikan anda menjaga kebersihan gigi dengan betul dan jangan lupa untuk mengunjungi doktor gigi sekurang-kurangnya dua kali setahun 
   untuk memastikan kesihatan mulut anda terjaga.  Oleh kerana paras gula dalam darah berkait rapat dengan penyakit gusi, 
   pesakit diabetes juga  perlu memastikan kandungan gula dalam darah dalam keadaan terkawal agar penyakit gusi tidak menjadi semakin teruk dan sebaliknya.</p>
   </div>
