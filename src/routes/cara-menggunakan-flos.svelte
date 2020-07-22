@@ -68,7 +68,7 @@
     <div class="mt-4 md:mt-0 md:ml-6">      
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
-        Kemudian, geserkan flos pada permukaan gigi dan secara perlahan-lahan, gerakkan flos sehingga ke bawah garis gusi membentuk huruf ‘C’, dan gerakkan semula flos ke atas perlahana-lahan. 
+        Kemudian, geserkan flos pada permukaan gigi dan secara perlahan-lahan, gerakkan flos sehingga ke bawah garis gusi membentuk huruf ‘C’, dan gerakkan semula flos ke atas perlahan-lahan. 
       </div>
       <p class="mt-2 text-gray-600" />
     </div>
