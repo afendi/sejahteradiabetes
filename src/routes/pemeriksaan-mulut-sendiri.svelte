@@ -92,7 +92,7 @@
     </p>
     <p class="p-3">Contoh lesi putih di lelangit</p>
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/9/97/Orale_Leukoplakie.jpg"
+      src="https://upload.wikimedia.org/wikipedia/commons/9/97/Orale_Leukoplakie.jpg" width="446px" height="475px"
       alt="Lesi putih" />
     <p class="p-3">Contoh campuran lesi putih dan merah pada mukosa mulut</p>
     <img
