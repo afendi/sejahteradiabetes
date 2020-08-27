@@ -21,8 +21,8 @@
   </div>
 
   <div class="min-w-full justify-center" style="background-color:#f6d148" >
-    <div class="text-2xl text-center text-black">Kesan Diabetes Pada Kesihatan Mulut</div>
-    <div class="text-lg text-center text-black">Kurangkan pengambilan gula untuk meningkatkan kesihatan mulut anda</div>
+    <div class="text-2xl text-center text-black">Awas Gula!</div>
+    <div class="text-lg text-center text-black">Kesan Diabetes Pada Kesihatan Mulut</div>
   </div>
 
   <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3" style="background-color:#f6d148">
@@ -85,7 +85,16 @@
         </div>
 
       </div>
-    </div>    
+    </div>   
+
+    <div class="max-w-sm rounded-lg overflow-hidden shadow-lg m-2">
+      <div class="flex flex-col min-h-full">
+        <div class="px-6 py-10 flex justify-center">
+          <div class="text-lg text-center text-black">Kurangkan pengambilan gula untuk meningkatkan kesihatan mulut anda</div>
+        </div>
+
+      </div>
+    </div>  
 
 
 

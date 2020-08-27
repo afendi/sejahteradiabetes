@@ -100,4 +100,10 @@
     </div>
   </div>
 
+ <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
+    <div class="mt-4 md:mt-0 md:ml-6">      
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/X0uYyE2ACAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div> 
+
 </div>
