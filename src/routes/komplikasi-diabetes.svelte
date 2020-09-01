@@ -21,7 +21,7 @@
   </div>
 
   <div class="grid grid-cols-1 mx-auto">
-    <img src="p5a/p1a.png" class="w-auto mx-auto" alt="Komplikasi Diabetes" />
+    <img src="p5a/p1a.png" class="w-auto mx-auto" style="width:500px;height:800px;" alt="Komplikasi Diabetes" />
     <p class="p-3">
       Diabetes yang tidak terkawal boleh menyebabkan pelbagai masalah kesihatan
       yang lain. Ini kerana diabetes boleh menyebabkan kerosakan kepada saluran

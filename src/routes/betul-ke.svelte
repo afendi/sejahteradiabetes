@@ -12,7 +12,7 @@
         " ringkas seperti WhatsApp atau Telegram. Adakah maklumat yang " +
         "disebarkan itu benar? Adakah ia menjanjikan perkara yang tak masuk " +
         "akal seperti kesembuhan dari penyakit diabetes sekiranya anda " +
-        "mengamalkan tips yang diberi. Untuk pengetahuan, pesakit diabetes " +
+        "mengamalkan tips yang diberi. Untuk pengetahuan, diabetes " +
         "tidak boleh disembuhkan tetapi boleh dikawal." +
         "</p>",
       active: false

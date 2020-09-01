@@ -87,6 +87,14 @@
 
   </div>
 
+<div class="inline-block border border-white rounded text-black py-1 px-3">
+<p class="p-2"> Aktiviti fizikal dapat membantu pesakit diabetes untuk mengawal paras gula dalam darah, serta mengurangkan risiko penyakit lain, meningkatkan stamina malah mengurangkan stres. Berikut adalah panduan aktiviti fizikal yang boleh diikuti untuk anda kekal aktif: </p>
+<p class="p-2"> 75 minit seminggu untuk aktiviti berintensiti tinggi seperti bermain futsal, jungle trekking, berenang, zumba
+Atau 150 minit seminggu untuk aktiviti fizikal berintensiti sederhana seperti berjalan pantas, mengemas rumah,berbasikal di kawasan taman, tai-chi </p>
+<p class="p-2"> Walaubagaimanapun pastikan anda mendapat nasihat doktor perubatan terlebih dahulu sebelum anda ingin memulakan latihan fizikal. Pastikan kaki anda tiada luka dan sekiranya ada, ia perlu dirawat terlebih dahulu sebelum latihan fizikal dapat dimulakan. Sentiasa bawa bekal air minum dan sedikit makanan seperti roti yang mudah di makan apabila anda merasa seperti hendak pitam kesan dari penurunan gula dalam darah yang melampau.</p>
+</div>
+
+
 
 
 </div>

@@ -21,7 +21,7 @@
   </div>
 
   <div class="grid grid-cols-1 mx-auto">
-    <img src="p6a/p1a.png" class="w-auto mx-auto" alt="Mulut Kering" />
+    <img src="p6a/p1a.png" style="width:500px;height:800px;" class="w-auto mx-auto" alt="Mulut Kering" />
     <p class="p-3">
       Antara masalah yang sering dihadapi oleh pesakit diabetes adalah mulut
       kering atau xerostomia. Mereka yang mempunyai masalah xerostomia akan
