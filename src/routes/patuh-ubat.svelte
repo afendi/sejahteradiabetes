@@ -46,6 +46,18 @@
         sebelum tidur setiap malam)
       </li>
     </ul>
+    
+    <p class="p-4">
+      Terlupa mengambil ubat mengikut waktu? Atau anda sedang berpuasa? Ikuti langkah tersebut:
+    </p>
+    
+     <ul class="p-4 list-disc">
+      <li>Maklumkan kepada doktor anda sekiranya anda terlupa mengambil ubat mengikut jadual</li>
+      <li>
+        Jika anda terlupa mengambil dos ubat, teruskan pengambilan ubat tersebut sebaik sahaja anda teringat. Namun jika anda teringat pada dos kedua ubat, langkau pengambilan dos pertama dan teruskan dos kedua. Elakkan mengambil dos berlebihan.
+      </li>
+      <li>Dapatkan nasihat jadual pemakanan ubat dari doktor anda sekiranya anda ingin berpuasa</li>
+       </ul>
 
     <p class="p-2" />Terlupa mengambil ubat mengikut waktu? Atau anda sedang berpuasa? Ikuti langkah tersebut:
 <ul class="p-3 list-disc">
