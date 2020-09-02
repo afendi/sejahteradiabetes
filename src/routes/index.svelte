@@ -59,7 +59,7 @@
         </a>
 		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-blue-400 hover:text-white" href="ubatgigi-berflorida">
             
-            <div class="pl-2">Pilih ubat gigi berfluorida</div>
+            <div class="pl-2">Pilih ubat gigi berflorida</div>
         </a>
 		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-blue-400 hover:text-white" href="pemilihan-interdental">
             
@@ -71,7 +71,7 @@
         </a>
 		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-blue-400 hover:text-white" href="cara-menggunakan-flos">
             
-            <div class="pl-2">Cara menggunakan floss</div>
+            <div class="pl-2">Cara menggunakan flos</div>
         </a>
 		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-blue-400 hover:text-white" href="cara-menggunakan-berus-interdental">
             

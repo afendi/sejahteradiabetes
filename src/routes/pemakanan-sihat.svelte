@@ -53,4 +53,8 @@
     <img src="p5/part4.png" class="w-auto object-center" alt="part1" />
   </div>
 
+  <div class="flex min-w-full justify-center" style="background-color:#e0aa94">
+    <img src="p5/part5.png" class="w-auto object-center" alt="part1" />
+  </div>
+
 </div>

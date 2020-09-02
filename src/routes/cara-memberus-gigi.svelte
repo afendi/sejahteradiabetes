@@ -22,7 +22,7 @@
 
   <div class="md:flex shadow-lg border-solid border border-pink-300">
     <div class="md:flex-shrink-0">
-      <img class="md:w-56" src="p16/p1.png" alt="part1" />
+      <img class="md:w-56" src="p16/p1a.png" alt="part1" />
     </div>
     <div class="mt-4 md:mt-0 md:ml-6">
       <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
@@ -88,8 +88,23 @@
       <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
         Langkah Keenam
       </div>      
-      <p class="mt-2 text-gray-600" />Berus lidah sehala dari belakang ke hadapan untuk membersihkan selaput pada permukaan lidah yang boleh juga menjadi punca nafas berbau. Kumur hanya dengan iar yang sedikit untuk memastikan florida dalam ubat gigi kekal di permukaan gigi dengan lebih lama untuk kesan pencegahan gigi yang optima.
+      <p class="mt-2 text-gray-600" />Berus lidah sehala dari belakang ke hadapan untuk membersihkan selaput pada permukaan lidah yang boleh juga menjadi punca nafas berbau. Kumur hanya dengan air yang sedikit untuk memastikan florida dalam ubat gigi kekal di permukaan gigi dengan lebih lama untuk kesan pencegahan gigi yang optima.
+    </div>
+  </div>
+
+  <div class="justify-centre md:flex mt-3 shadow-lg border-solid border border-pink-100">
+    <div class="mt-4 md:mt-0 md:ml-6">
+    <iframe title="Cara Memberus Gigi" width="560" height="315" src="https://www.youtube.com/embed/7T8vWrl_GL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen >
     </div>
   </div>
 
 </div>
+
+  
+  
+ 
+  
+
+    
+
+

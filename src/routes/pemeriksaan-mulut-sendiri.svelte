@@ -22,7 +22,7 @@
   </div>
 
   <div class="flex justify-center min-w-full">
-    <img src="p9/part1.png" class="w-auto object-center" alt="part1" />
+      <img src="p9/part1.png" class="w-auto; center" alt="part1" />
   </div>
   <div class="pt-3 p-5">
     <p class="p-3">
@@ -90,20 +90,26 @@
       oleh doktor gigi penting kerana kadang-kala sukar untuk anda untuk
       mengenalpasti lesi-lesi ini.
     </p>
-    <p class="p-3">Contoh lesi putih di lelangit</p>
-    <img
+    <p class="p-3; centre;">Contoh lesi putih di lelangit</p>
+    <img 
       src="https://upload.wikimedia.org/wikipedia/commons/9/97/Orale_Leukoplakie.jpg" width="446px" height="475px"
-      alt="Lesi putih" />
+      alt="Lesi putih"/>
     <p class="p-3">Contoh campuran lesi putih dan merah pada mukosa mulut</p>
-    <img
+    <img 
       src="https://upload.wikimedia.org/wikipedia/commons/8/80/NIH_DOC_19_Erythroleukoplakia.jpg"
-      alt="mukosa" />
+      alt="mukosa" class="flex justify-center"/>
     <p class="p-3">
       Selain itu sekiranya ada ulser yang tidak sembuh setelah dua minggu atau
       ada benjolan luar biasa di dalam mulut anda, dapatkan pemeriksaan segera
       dari doktor gigi anda. Pemeriksaan awal dapat meningkatkan kebarangkalian
       untuk sembuh dan dapat mencegah dari penyakit menjadi lebih teruk.
     </p>
+
   </div>
+  <div class="flex justify-center min-w-full">
+<iframe title=" Pemeriksaan Mulut Sendiri" width="560" height="315" src="https://www.youtube.com/embed/Pewi_3PnPgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 </div>
+
+
