@@ -67,7 +67,7 @@
         <italics>L</italics>
         untuk celahan gigi belakang
       </div>
-      <p class="mt-2 text-gray-600" />
+
     </div>
   </div>
 
