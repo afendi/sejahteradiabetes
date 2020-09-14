@@ -25,11 +25,11 @@
       <img class="md:w-56" src="p14/part1.png" alt="part1" />
     </div>
     <div class="mt-4 md:mt-0 md:ml-6">
-      <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold">        
-      </div>
+      <div class="uppercase tracking-wide text-sm text-indigo-600 font-bold" />
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
-        Pertama, ambil dalam 30-50 cm panjang flos (atau sehasta)  dan lilitkan pada jari tengah di kedua-dua belah tangan.
+        Pertama, ambil dalam 30-50 cm panjang flos (atau sehasta) dan lilitkan
+        pada jari tengah di kedua-dua belah tangan.
       </div>
       <p class="mt-2 text-gray-600" />
     </div>
@@ -39,10 +39,11 @@
     <div class="md:flex-shrink-0">
       <img class="md:w-56" src="p14/part2.png" alt="part1" />
     </div>
-    <div class="mt-4 md:mt-0 md:ml-6">      
+    <div class="mt-4 md:mt-0 md:ml-6">
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
-        Pegang flos antara ibu jari dan jari telunjuk,  tinggalkan dalam 3-6cm di antaranya. 
+        Pegang flos antara ibu jari dan jari telunjuk, tinggalkan dalam 3-6cm di
+        antaranya.
       </div>
       <p class="mt-2 text-gray-600" />
     </div>
@@ -52,10 +53,12 @@
     <div class="md:flex-shrink-0">
       <img class="md:w-56" src="p14/part3.png" alt="part1" />
     </div>
-    <div class="mt-4 md:mt-0 md:ml-6">      
+    <div class="mt-4 md:mt-0 md:ml-6">
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
-        Dengan menggunakan jari telunjuk dan ibu jari, masukkan flos ke celah-celah gigi dengan berhati-hati dengan pergerakan zig-zag. Elakkan dari menekan flos pada gusi kerana boleh mengakibatkan luka pada gusi.
+        Dengan menggunakan jari telunjuk dan ibu jari, masukkan flos ke
+        celah-celah gigi dengan berhati-hati dengan pergerakan zig-zag. Elakkan
+        dari menekan flos pada gusi kerana boleh mengakibatkan luka pada gusi.
       </div>
       <p class="mt-2 text-gray-600" />
     </div>
@@ -65,10 +68,12 @@
     <div class="md:flex-shrink-0">
       <img class="md:w-56" src="p14/part4.png" alt="part1" />
     </div>
-    <div class="mt-4 md:mt-0 md:ml-6">      
+    <div class="mt-4 md:mt-0 md:ml-6">
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
-        Kemudian, geserkan flos pada permukaan gigi dan secara perlahan-lahan, gerakkan flos sehingga ke bawah garis gusi membentuk huruf ‘C’, dan gerakkan semula flos ke atas perlahan-lahan. 
+        Kemudian, geserkan flos pada permukaan gigi dan secara perlahan-lahan,
+        gerakkan flos sehingga ke bawah garis gusi membentuk huruf ‘C’, dan
+        gerakkan semula flos ke atas perlahan-lahan.
       </div>
       <p class="mt-2 text-gray-600" />
     </div>
@@ -78,7 +83,7 @@
     <div class="md:flex-shrink-0">
       <img class="md:w-56" src="p14/part5.png" alt="part1" />
     </div>
-    <div class="mt-4 md:mt-0 md:ml-6">      
+    <div class="mt-4 md:mt-0 md:ml-6">
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
         Alihkan flos ke permukaan gigi yang bersebelahan dan ulang langkah 4.
@@ -91,19 +96,28 @@
     <div class="md:flex-shrink-0">
       <img class="md:w-56" src="p14/part6.png" alt="part1" />
     </div>
-    <div class="mt-4 md:mt-0 md:ml-6">      
+    <div class="mt-4 md:mt-0 md:ml-6">
       <div
         class="block mt-1 text-lg leading-tight font-semibold text-gray-900 ">
-        Gunakan bahagian flos yang baru apabila beralih ke gigi lain  dan ulang semula dari langkah kedua.
+        Gunakan bahagian flos yang baru apabila beralih ke gigi lain dan ulang
+        semula dari langkah kedua.
       </div>
       <p class="mt-2 text-gray-600" />
     </div>
   </div>
 
-<div class="md:flex mt-3 shadow-lg border-solid border border-pink-300">
- <div class="mt-4 md:mt-0 md:ml-6">  
- <iframe title=" Cara Menggunakan Flos" width="560" height="315" src="https://www.youtube.com/embed/X0uYyE2ACAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </div> </div>
-
+  <div class="md:flex mt-3 shadow-lg border-solid border border-pink-300 justify-center">
+    <div class="mt-4 md:mt-0 md:ml-6 justify-center">
+      <iframe
+        title="Cara Menggunakan Flos"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/X0uYyE2ACAo"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope;
+        picture-in-picture"
+        allowfullscreen />
+    </div>
+  </div>
 
 </div>
