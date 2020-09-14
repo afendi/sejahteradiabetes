@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Sejahtera Diabetes</title>
+	<title>Senyumanis</title>
 </svelte:head>
 
 <div class="overflow-hidden shadow-lg border-t-4 bg-white mb-4 rounded-b-lg rounded-t border-red-light w-full">
