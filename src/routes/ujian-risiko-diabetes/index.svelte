@@ -90,4 +90,4 @@
   </div>
 </div>
  <div style="visibility: hidden; position: absolute">
-    <a href="assess">...</a></div>
+    <a href="ujian-risiko-diabetes/assess">...</a></div>
